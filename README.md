@@ -1,2 +1,2 @@
 # go-trl
-![Build status](https://github.com/marcostierle/go-trl/workflows/Build/badge.svg) [![Report card](https://goreportcard.com/badge/github.com/marcostierle/go-trl)](https://goreportcard.com/report/github.com/marcostierle/go-trl) [![codecov](https://codecov.io/gh/marcostierle/go-trl/branch/master/graph/badge.svg)](https://codecov.io/gh/marcostierle/go-trl)
+![Build status](https://github.com/marcostierle/go-trl/workflows/Build/badge.svg) [![Report card](https://goreportcard.com/badge/github.com/marcostierle/go-trl)](https://goreportcard.com/report/github.com/marcostierle/go-trl) [![codecov](https://codecov.io/gh/marcostierle/go-trl/branch/main/graph/badge.svg?token=24KvOwjxwT)](https://codecov.io/gh/marcostierle/go-trl)
