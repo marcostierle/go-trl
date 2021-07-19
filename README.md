@@ -1,1 +1,2 @@
 # go-trl
+![Build status](https://github.com/marcostierle/go-trl/workflows/Build/badge.svg) [![Report card](https://goreportcard.com/badge/github.com/marcostierle/go-trl)](https://goreportcard.com/report/github.com/marcostierle/go-trl)
